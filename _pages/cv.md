@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-<small>* B.S. in Optical Information Science and Technology, University of Electronic Science and Technology of China (UESTC), 2016 </small>
-<small>* B.S. in English Literature, UESTC, 2016 </small>
-<small>* Ph.D in Signal and Information Processing, UESTC, 2021 </small>
+* <small>B.S. in Optical Information Science and Technology, University of Electronic Science and Technology of China (UESTC), 2016 </small>
+* <small>B.S. in English Literature, UESTC, 2016 </small>
+* <small>Ph.D in Signal and Information Processing, UESTC, 2021 </small>
+  
+
 
 Experience
 ======
-<small>* 07/2021-present: Research Associate
+* <small>07/2021-present: Research Associate
   * The Key Laboratory of Technology in Geo-Spatial Information Processing and Application System
   * The Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS) </small>
 
