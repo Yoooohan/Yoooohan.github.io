@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<small>* B.S. in Optical Information Science and Technology, University of Electronic Science and Technology of China (UESTC), 2016</small>
+<small>* B.S. in English Literature, UESTC, 2016</small>
+<small>* Ph.D in Signal and Information Processing, UESTC, 2021 </small>
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<small>* 07/2021-present: Research Associate
+  * The Key Laboratory of Technology in Geo-Spatial Information Processing and Application System
+  * The Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS) </small>
 
 * Fall 2015: Research Assistant
   * Github University
