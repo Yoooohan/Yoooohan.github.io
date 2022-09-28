@@ -19,9 +19,9 @@ Education
 
 Experience
 ======
-* <small>07/2021-present: Research Associate
-  * The Key Laboratory of Technology in Geo-Spatial Information Processing and Application System
-  * The Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS) </small>
+* <small>07/2021-present: Research Associate </small>
+  * <small>The Key Laboratory of Technology in Geo-Spatial Information Processing and Application System</small>
+  * <small>The Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS) </small>
 
 * Fall 2015: Research Assistant
   * Github University
