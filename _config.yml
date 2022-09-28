@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yuhan Liu"
-  avatar           : "WeChat Image_20220215094433.jpg"
+  avatar           : "profile.jpg"
   bio              : "Research associate at Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Rmsc214AAAAJ&hl=en"
   email            :  liuyuhan@aircas.ac.cn; yuhanliu0211@outlook.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
