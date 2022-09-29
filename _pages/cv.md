@@ -23,19 +23,19 @@ Experience
   * <small>The Key Laboratory of Technology in Geo-Spatial Information Processing and Application System</small>
   * <small>The Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS) </small>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <small>09/2019-12/2020: Visiting PhD Student </small>
+  * <small>Brown University</small>
+  * <small>Supervisor: Professor Benjamin Kimia</small>
+
+* <small>07/2014-08/2014: Short-term Tour </small>
+  * <small> National University of Singapore (NUS) </small>
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* C++
+* Latex
+* MS Office
 
 Publications
 ======
@@ -57,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Guest editor for special issue "Infrared Sensing and Target Detection" on *Sensors* 
