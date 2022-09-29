@@ -1,5 +1,5 @@
 ---
-title: "River detection based on feature fusion from synthetic aperture radar images"
+title: "River Detection Based on Feature Fusion from Synthetic Aperture Radar Images"
 collection: publications
 permalink: /publication/paper-3
 date: '2020-01-22'
