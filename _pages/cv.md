@@ -55,6 +55,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->  
+
 Service and leadership
 ======
 * <small>Guest editor for special issue "Infrared Sensing and Target Detection" on *Sensors* </small>
