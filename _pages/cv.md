@@ -1,13 +1,12 @@
-<!--
 ---
 layout: archive
-title: "CV" 
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
--->
+--- 
+
 {% include base_path %}
 
 Education
@@ -16,8 +15,6 @@ Education
 * <small>B.S. in English Literature, UESTC, 2016 </small>
 * <small>Ph.D in Signal and Information Processing, UESTC, 2021 </small>
   
-
-
 Experience
 ======
 * <small>07/2021-present: Research Associate </small>
