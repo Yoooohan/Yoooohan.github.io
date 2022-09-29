@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Yuhan Liu"
 title_separator          : "-"
 name                     : &name "Yuhan Liu"
-description              : &description "Research associate at Chinese Academy of Sciences"
+description              : &description "Research associate"
 url                      : https://Yoooohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuhan Liu"
   avatar           : "profile.jpg"
-  bio              : "Research associate at Chinese Academy of Sciences"
+  bio              : "Research associate"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
