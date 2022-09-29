@@ -32,10 +32,10 @@ Experience
   
 Skills
 ======
-* Matlab
-* C++
-* Latex
-* MS Office
+* <small>Matlab</small>
+* <small>C++</small>
+* <small>Latex</small>
+* <small>MS Office</small>
 
 Publications
 ======
