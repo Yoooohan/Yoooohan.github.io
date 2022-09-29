@@ -16,7 +16,7 @@ Updates
 
 <small>07/2022: Successfully acquire the funding on "Infrared Moving Target Detection" from the Aerospace Information Research Institute!</small>
 
-<small>05/2022: Our paper "Infrared Dim and Small Target Detection from Complex Scenes via Multi-Frame Spatial–Temporal Patch-Tensor Model" has been published on *Remote Sensing*.[[DOI]](https://www.mdpi.com/2072-4292/14/9/2234)</small>
+<small>05/2022: Our paper "Infrared Dim and Small Target Detection from Complex Scenes via Multi-Frame Spatial–Temporal Patch-Tensor Model" has been published on *Remote Sensing*.[[doi]](https://www.mdpi.com/2072-4292/14/9/2234)</small>
 
 <small>07/2021: Work as a research associate at the Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS)!</small>
 
