@@ -1,5 +1,5 @@
 ---
-title: "River detection in high-resolution SAR data using the Frangi filter and shearlet features"
+title: "River Detection in High-resolution SAR Data using the Frangi Filter and Shearlet Features"
 collection: publications
 permalink: /publication/paper-1
 date: 2019-10-03
