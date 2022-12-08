@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * <small>B.S. in Optical Information Science and Technology, University of Electronic Science and Technology of China (UESTC), 2016 </small>
-* <small>B.S. in English Literature, UESTC, 2016 </small>
+* <small>B.A. in English Literature, UESTC, 2016 </small>
 * <small>Ph.D in Signal and Information Processing, UESTC, 2021 </small>
   
 Experience
