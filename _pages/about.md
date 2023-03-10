@@ -12,6 +12,10 @@ Hi! Thank you for visiting my page! I am Yuhan and I received my PhD from the Un
 
 Updates
 ======
+<small>03/2023: Our paper "Method of Infrared Small Moving Target Detection Based on Coarse-to-Fine Structure in Complex Scenes" has been published on *Remote Sensing*.[[doi]](https://doi.org/10.3390/rs15061508)</small>
+
+<small>02/2023: Successfully received the funding on "Infrared Anomaly Detection"!</small>
+
 <small>12/2022: Our paper "APAFNet: Single-Frame Infrared Small Target Detection by Asymmetric Patch Attention Fusion" has been accepted by *IEEE Geoscience and Remote Sensing Letters*!
 
 <small>11/2022: The code of "Infrared Dim and Small Target Detection from Complex Scenes via Multi-Frame Spatial–Temporal Patch-Tensor Model" has been uploaded! [[code]](https://github.com/Yoooohan/MFSTPT)</small>
