@@ -14,7 +14,7 @@ Updates
 ======
 <big>2024:</big>
 
-<small>07/2024: Our paper "INFRARED SMALL MOVING TARGET DETECTION BASED ON SPATIAL-TEMPORAL-FREQUENCY ANALYSIS" has been exhibited on *IGARSS 2024*</small>
+<small>07/2024: Our paper "Infrared Small Moving Target Detection Based on Spatial-temporal-frequency Analysis" has been exhibited on *2024 IEEE International Geoscience and Remote Sensing Symposium*</small>
 
 <small>05/2024: Our paper "High-Speed Spatial–Temporal Saliency Model: A Novel Detection Method for Infrared Small Moving Targets Based on a Vectorized Guided Filter" has been published on *Remote Sensing*.[[doi]](https://doi.org/10.3390/rs16101685)</small>
 
