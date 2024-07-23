@@ -12,7 +12,15 @@ Hi! Thank you for visiting my page! I am Yuhan and I received my PhD from the Un
 
 Updates
 ======
+<big>2024:</big>
+
+<small>07/2024: Our paper "INFRARED SMALL MOVING TARGET DETECTION BASED ON SPATIAL-TEMPORAL-FREQUENCY ANALYSIS" has been exhibited on *IGARSS 2024*</small>
+
+<small>05/2024: Our paper "High-Speed Spatial–Temporal Saliency Model: A Novel Detection Method for Infrared Small Moving Targets Based on a Vectorized Guided Filter" has been published on *Remote Sensing*.[[doi]](https://doi.org/10.3390/rs16101685)</small>
+
 <big>2023:</big>
+
+<small>11/2023: Successfully completed the project "Infrared Anomaly Detection"!</small>
 
 <small>09/2023: The code of "Method of Infrared Small Moving Target Detection Based on Coarse-to-Fine Structure in Complex Scenes" has been uploaded! [[code]](https://github.com/Yoooohan/MCFS)</small>
 
