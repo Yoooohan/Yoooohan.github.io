@@ -13,15 +13,15 @@ Updates
 ======
 <big>2024:</big>
 
-<small>12/2024: Our paper "A Contrastive-Augmented Memory Network for Anti-UAV Tracking in TIR Videos" has been published on *Remote Sensing*![[doi]](https://doi.org/10.3390/rs16244775)</small>
+<small>12/2024: Our paper "A Contrastive-Augmented Memory Network for Anti-UAV Tracking in TIR Videos" has been published on *Remote Sensing*! [[doi]](https://doi.org/10.3390/rs16244775)</small>
 
-<small>12/2024: Our paper "EHTracker: Towards Fine-Grained Localization for Satellite Video Target Tracking" has been published on *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*![[doi]](10.1109/JSTARS.2024.3520997)</small>
+<small>12/2024: Our paper "EHTracker: Towards Fine-Grained Localization for Satellite Video Target Tracking" has been published on *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*! [[doi]](10.1109/JSTARS.2024.3520997)</small>
 
-<small>12/2024: Work as a Associate Professor at the Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS)!</small>
+<small>12/2024: Work as a Associate Professor at the Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS)! </small>
 
-<small>07/2024: Our paper "Infrared Small Moving Target Detection Based on Spatial-temporal-frequency Analysis" has been exhibited on *2024 IEEE International Geoscience and Remote Sensing Symposium*![[doi]](10.1109/IGARSS53475.2024.10640995)</small>
+<small>07/2024: Our paper "Infrared Small Moving Target Detection Based on Spatial-temporal-frequency Analysis" has been exhibited on *2024 IEEE International Geoscience and Remote Sensing Symposium*! [[doi]](10.1109/IGARSS53475.2024.10640995)</small>
 
-<small>05/2024: Our paper "High-Speed Spatial–Temporal Saliency Model: A Novel Detection Method for Infrared Small Moving Targets Based on a Vectorized Guided Filter" has been published on *Remote Sensing*![[doi]](https://doi.org/10.3390/rs16101685)</small>
+<small>05/2024: Our paper "High-Speed Spatial–Temporal Saliency Model: A Novel Detection Method for Infrared Small Moving Targets Based on a Vectorized Guided Filter" has been published on *Remote Sensing*! [[doi]](https://doi.org/10.3390/rs16101685)</small>
 
 <big>2023:</big>
 
