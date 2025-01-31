@@ -13,6 +13,8 @@ Updates
 ======
 <big>2024:</big>
 
+<small>12/2024: Our paper "An Infrared Small Moving Target Detection Method in Complex Scenes Based on Dual-Region Search" has been published on *Remote Sensing*! [[doi]](https://doi.org/10.3390/rs17020323)</small>
+
 <small>12/2024: Our paper "A Contrastive-Augmented Memory Network for Anti-UAV Tracking in TIR Videos" has been published on *Remote Sensing*! [[doi]](https://doi.org/10.3390/rs16244775)</small>
 
 <small>12/2024: Our paper "EHTracker: Towards Fine-Grained Localization for Satellite Video Target Tracking" has been published on *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*! [[doi]](10.1109/JSTARS.2024.3520997)</small>
