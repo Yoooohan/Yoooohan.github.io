@@ -17,7 +17,11 @@ Education
   
 Experience
 ======
-* <small>07/2021-present: Research Associate </small>
+* <small>12/2024-present: Associate Professor </small>
+  * <small>The Key Laboratory of Technology in Geo-Spatial Information Processing and Application System</small>
+  * <small>The Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS) </small>
+  
+* <small>07/2021-12/2024: Research Associate </small>
   * <small>The Key Laboratory of Technology in Geo-Spatial Information Processing and Application System</small>
   * <small>The Aerospace Information Research Institute (AIR) under the Chinese Academy of Sciences (CAS) </small>
 
